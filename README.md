@@ -9,71 +9,71 @@
 
 ***
 
-### Introduction 
+### 1. Introduction 
 
    Here goes the intro.
    
    
    
-### Cognitive SLA management architecture 
+### 2. Cognitive SLA management architecture 
 
 Cognitive SLA Management Architecture applied to a VOIP service based on a NFV infrastructure. The architecture includes the instantiation of the main building blocks and their interworking
 
 
-#### SLO description and YAML 
+#### 2.a SLO description and YAML 
 
 
 
-#### Handling SLOs
+#### 2.b Handling SLOs
 
 
 
-### ANN - Artificial Neural Network
+### 3. ANN - Artificial Neural Network
 
 
-#### Recurrent Neural Nets 
+#### 3.a Recurrent Neural Nets 
 
 
-#### LSTM - Long Short Term Memory 
-
-
-
-### Decision Tree (DT)
+#### 3.b LSTM - Long Short Term Memory 
 
 
 
-### The Framework: Clearwater
-
-#### Motivation
-
-
-#### Installation
-
-
-#### Traffic and Anomaly generation
-
-
-#### Machine Learning in Action 
+### 4. Decision Tree (DT)
 
 
 
-### Evaluation & discussion 
+### 5. The Framework: Clearwater
+
+#### 5.a Motivation
 
 
-#### Evaluation methodology 
+#### 5.b Installation
 
 
-#### Results 
+#### 5.c Traffic and Anomaly generation
+
+
+#### 5.d Machine Learning in Action 
 
 
 
-#### Discussion 
+### 6. Evaluation & discussion 
 
 
-### Conclusion 
+#### 6.a Evaluation methodology 
 
 
-### Annexe
+#### 6.b Results 
+
+
+
+#### 6.c Discussion 
+
+
+### 7. Conclusion 
+
+
+###  Annexe
 
 
 ### Useful links
