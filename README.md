@@ -96,4 +96,4 @@ Cognitive SLA Management Architecture applied to a VOIP service based on a NFV i
  Authors :  Jaafar Bendriss (@heekof), Imen Grida Ben Yehia , and Djamal Zeghlache. 10/28/2016
 
 ### Support or Contact
-Having Questions?  Drop us a mail ([contact support](jaafar.bendriss@orange.com)) and we’ll help you sort it out.
+Having Questions?  Drop us a mail at jaafar.bendriss@orange.com and we’ll help you sort it out.
