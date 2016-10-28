@@ -2,7 +2,7 @@
 
 ### Abstrat 
 
-        Software Networks built by combining Software Defined Networks (SDN), Network Function Virtualization (NFV) and Cloud environment call for agile and dynamic automation of management operations to ensure continuous provisioning and deployment of networked resources and services. In this context, efficient Service Level Agreements (SLA) management and anticipation of Service Level Objectives (SLO) breaches become essential to fulfill established service contracts with clients. In this paper, we design and specify a framework for cognitive SLA enforcement (using Artificial Neural Network learning) for networking services involving (Virtualized Network Functions) VNFs and SDN controllers. A proof of concept, a test bed description and an extensive evaluation and discussion assess the performance of the proposed framework.
+  Software Networks built by combining Software Defined Networks (SDN), Network Function Virtualization (NFV) and Cloud environment call for agile and dynamic automation of management operations to ensure continuous provisioning and deployment of networked resources and services. In this context, efficient Service Level Agreements (SLA) management and anticipation of Service Level Objectives (SLO) breaches become essential to fulfill established service contracts with clients. In this paper, we design and specify a framework for cognitive SLA enforcement (using Artificial Neural Network learning) for networking services involving (Virtualized Network Functions) VNFs and SDN controllers. A proof of concept, a test bed description and an extensive evaluation and discussion assess the performance of the proposed framework.
 
 ***
 
