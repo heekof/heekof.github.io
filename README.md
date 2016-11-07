@@ -14,7 +14,7 @@
    Here goes the intro.
    
    
-![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)
+![Here Text](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)
 Figure x. Title
 
 ### II. Cognitive SLA management architecture 
