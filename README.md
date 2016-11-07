@@ -14,70 +14,86 @@
    Here goes the intro.
    
    
-   
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)   
 ### 2. Cognitive SLA management architecture 
 
 Cognitive SLA Management Architecture applied to a VOIP service based on a NFV infrastructure. The architecture includes the instantiation of the main building blocks and their interworking
 
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Flow%20Chart.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Architecture%20SLA%20Management%20Cognitive.png)
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Ellis%20data%20sample.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Full%20architecture%20V2%20.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/sequence%20diag.jpg)
 #### 2.a SLO description and YAML 
 
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Feuille%201.png)
 
 #### 2.b Handling SLOs
 
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Example.png)
 
 ### 3. ANN - Artificial Neural Network
 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/30%20sec%20to%2030%20min.png)
 
+
+#### 3.a Feature selection
+
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Autocorrelation.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Correlation%20Lags.png)
+
+
 #### 3.a Recurrent Neural Nets 
 
+![alt tag]()
 
 #### 3.b LSTM - Long Short Term Memory 
 
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/LSTM%20Cell.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/RNN%20Unrolled.png)
 
 ### 4. Decision Tree (DT)
 
-
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/DT_Ellis.jpeg)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/DT_Ellis_Comment.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/subgraph.jpg)
 ### 5. The Framework: Clearwater
-
+![alt tag]()
 #### 5.a Motivation
 
-
+![alt tag]()
 #### 5.b Installation
-
+![alt tag]()
 
 #### 5.c Traffic and Anomaly generation
 
-
+![alt tag]()
 #### 5.d Machine Learning in Action 
 
-
+![alt tag]()
 
 ### 6. Evaluation & discussion 
 
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/CPU%20example.png)
 
 #### 6.a Evaluation methodology 
-
+![alt tag]()
 
 #### 6.b Results 
 
-
-
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Eval%202.jpg)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLA%20Dashboard.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Breach%20in%20Graph.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Radar.png)
 #### 6.c Discussion 
-
+![alt tag]()
 
 ### 7. Conclusion 
 
-
+![alt tag]()
 ###  Annexe
 
-
+![alt tag]()
 ### Useful links
 
 
