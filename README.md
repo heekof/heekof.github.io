@@ -19,6 +19,7 @@
 
 Cognitive SLA Management Architecture applied to a VOIP service based on a NFV infrastructure. The architecture includes the instantiation of the main building blocks and their interworking
 
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Architecture%20SLA%20Management%20Cognitive.png)
 
 #### 2.a SLO description and YAML 
 
@@ -30,6 +31,7 @@ Cognitive SLA Management Architecture applied to a VOIP service based on a NFV i
 
 ### 3. ANN - Artificial Neural Network
 
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/30%20sec%20to%2030%20min.png)
 
 #### 3.a Recurrent Neural Nets 
 
