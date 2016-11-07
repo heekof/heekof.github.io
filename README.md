@@ -14,12 +14,15 @@
    Here goes the intro.
    
    
-![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)   
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)
+Figure x. Title
+
 ### 2. Cognitive SLA management architecture 
 
 Cognitive SLA Management Architecture applied to a VOIP service based on a NFV infrastructure. The architecture includes the instantiation of the main building blocks and their interworking
 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Flow%20Chart.png)
+Figure x. Title 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Architecture%20SLA%20Management%20Cognitive.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Ellis%20data%20sample.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Full%20architecture%20V2%20.png)
@@ -58,7 +61,8 @@ Cognitive SLA Management Architecture applied to a VOIP service based on a NFV i
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/DT_Ellis_Comment.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/subgraph.jpg)
 ### 5. The Framework: Clearwater
-![alt tag]()
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Clearwater_Architecture.png)
+![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/cloudify-clearwater-architecture.jpg)
 #### 5.a Motivation
 
 ![alt tag]()
@@ -85,6 +89,13 @@ Cognitive SLA Management Architecture applied to a VOIP service based on a NFV i
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLA%20Dashboard.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Breach%20in%20Graph.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Radar.png)
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 #### 6.c Discussion 
 ![alt tag]()
 
