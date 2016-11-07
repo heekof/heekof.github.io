@@ -9,16 +9,16 @@
 
 ***
 
-### 1. Introduction 
-
+### I. Introduction 
+---
    Here goes the intro.
    
    
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Table%20definition.png)
 Figure x. Title
 
-### 2. Cognitive SLA management architecture 
-
+### II. Cognitive SLA management architecture 
+---
 Cognitive SLA Management Architecture applied to a VOIP service based on a NFV infrastructure. The architecture includes the instantiation of the main building blocks and their interworking
 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Flow%20Chart.png)
@@ -35,8 +35,8 @@ Figure x. Title
 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/SLO%20Example.png)
 
-### 3. ANN - Artificial Neural Network
-
+### III. ANN - Artificial Neural Network
+---
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/30%20sec%20to%2030%20min.png)
 
 
@@ -55,12 +55,13 @@ Figure x. Title
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/LSTM%20Cell.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/RNN%20Unrolled.png)
 
-### 4. Decision Tree (DT)
-
+### IV. Decision Tree (DT)
+---
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/DT_Ellis.jpeg)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/DT_Ellis_Comment.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/subgraph.jpg)
-### 5. The Framework: Clearwater
+### V. The Framework: Clearwater
+---
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/Clearwater_Architecture.png)
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/cloudify-clearwater-architecture.jpg)
 #### 5.a Motivation
@@ -76,7 +77,8 @@ Figure x. Title
 
 ![alt tag]()
 
-### 6. Evaluation & discussion 
+### VI. Evaluation & discussion 
+---
 
 ![alt tag](https://github.com/heekof/heekof.github.io/blob/master/img/CPU%20example.png)
 
@@ -99,7 +101,7 @@ Content in the first column | Content in the second column
 #### 6.c Discussion 
 ![alt tag]()
 
-### 7. Conclusion 
+### VII. Conclusion 
 
 ![alt tag]()
 ###  Annexe
